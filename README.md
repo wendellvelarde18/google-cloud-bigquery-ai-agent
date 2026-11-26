@@ -137,4 +137,17 @@ Cloud Computing | AI Engineering | Generative AI | Automation
 
 ---
 
+### 🏅 Verified Google Cloud Credential
+
+**Govern Agent Access with Gemini Platform**
+
+- **Issuer:** Google Cloud
+- **Level:** Advanced Skill Badge
+- **Issued:** November 26, 2026
+- **Challenge Lab Score:** 100/100
+
+🔗 [View My Official Google Cloud Credential on Credly](https://www.credly.com/badges/95aa81ba-63ea-4858-a48a-93645e733656/public_url)
+
 *Built as part of a hands-on Google Cloud learning experience.*
+
+
