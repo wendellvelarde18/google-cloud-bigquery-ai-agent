@@ -37,6 +37,8 @@ The project demonstrates how to deploy an AI agent using Google's Agent Developm
 
 ## Architecture
 
+![BigQuery AI Agent Architecture](bigquery-agent-architecture.png)
+
 The solution follows this workflow:
 
 1. A user submits a natural-language request through Agent Runtime Playground.
